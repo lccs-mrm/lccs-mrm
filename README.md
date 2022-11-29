@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and SQL, and soon will learn Springboot framework and Kotlin! 
 - 💞️ I’m looking to collaborate on study projects and knowledge open source initiatives
 - 📫 How to reach me: https://www.linkedin.com/in/luccas-cavicchioli/
-                   or: lccs.mrm@gmail.com
+or: lccs.mrm@gmail.com
              
 
 <!---
